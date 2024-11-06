@@ -1,0 +1,51 @@
+property id,distance to amenities mi,crime rate,nearby schools,demographics population,nearby shopping centers,property taxes,house condition
+1001,0.5,Low,3,50000,5,10000,Good
+1002,1.2,Medium,4,60000,2,4000,Excellent
+1003,0.3,High,1,40000,8,2000,Fair
+1004,2.5,Low,5,70000,3,5000,Excellent
+1005,0.8,Low,3,52000,4,3500,Good
+1006,0.6,High,2,45000,7,3200,Good
+1007,5,Very Low,2,35000,1,5500,Excellent
+1008,1,Medium,2,48000,6,1800,Fair
+1009,2,Medium,4,61000,2,4200,Excellent
+1010,0.4,Low,3,53000,5,2700,Good
+1011,0.5,Low,3,50000,5,3000,Good
+1012,1.2,Medium,4,,2,4000,Excellent
+1013,0.3,High,1,40000,8,2000,Fair
+1014,2.5,Low,5,70000,3,5000,
+1015,0.8,Low,3,52000,4,3500,Good
+1016,0.6,High,2,45000,7,3200,Good
+1017,5,Very Low,2,35000,1,5500,Excellent
+1018,1,Medium,2,48000,6,1800,Fair
+1019,2,Medium,4,61000,2,4200,Excellent
+1020,0.4,Low,3,53000,5,2700,Good
+1021,0.5,Low,3,50000,5,3000,Good
+1022,1.2,Medium,4,,2,4000,Excellent
+1023,0.3,High,1,40000,8,10,Fair
+1024,2.5,Low,5,70000,3,5000,Excellent
+1025,0.8,Low,3,52000,4,3500,Good
+1026,0.6,High,2,45000,7,3200,Good
+1027,5,Very Low,2,35000,1,5500,
+1028,1,Medium,2,48000,6,1800,Fair
+1029,2,Medium,4,61000,2,4200,Excellent
+1030,0.4,Low,3,53000,5,2700,Good
+1031,0.5,Low,3,50000,5,3000,Good
+1032,1.2,Medium,4,60000,2,4000,Excellent
+1033,0.3,High,1,40000,8,2000,Fair
+1034,2.5,Low,5,70000,3,5000,Excellent
+1035,0.8,Low,3,52000,4,3500,Good
+1036,0.6,High,2,45000,7,3200,Good
+1037,5,Very Low,2,35000,1,5500,Excellent
+1038,1,Medium,2,48000,6,1800,Fair
+1039,2,Medium,4,61000,2,4200,Excellent
+1040,0.4,Low,3,53000,5,2700,Good
+1041,0.5,Low,3,50000,5,3000,Good
+1042,1.2,Medium,4,60000,2,4000,Excellent
+1043,0.3,High,1,40000,8,2000,
+1044,2.5,Low,5,,3,5000,Excellent
+1045,0.8,Low,3,52000,4,3500,Good
+1046,0.6,High,2,45000,7,3200,Good
+1047,5,Very Low,2,35000,1,5500,Excellent
+1048,1,Medium,2,48000,6,1800,Fair
+1049,2,Medium,4,61000,2,4200,Excellent
+1050,0.4,Low,3,53000,5,2700,Good
